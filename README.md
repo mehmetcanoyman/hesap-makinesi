@@ -1,2 +1,2 @@
 # hesap-makinesi
-"Basit matematiksel işlemler yapan Python uygulaması."
+"Matematiksel işlemler yapan Python uygulaması."
